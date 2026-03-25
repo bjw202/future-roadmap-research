@@ -1,0 +1,10 @@
+.env
+previous.mcp.json
+node_modules/
+presentation-build/2026-03-23-tech-portfolio
+user-input-context
+test-minimal.pptx
+.DS_Store
+~$*
+debate-*.md
+improvement-plan-*.md

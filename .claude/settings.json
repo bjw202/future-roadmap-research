@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./scripts/search.sh:*)",
+      "Bash(/bin/bash ./scripts/search.sh:*)",
+      "Bash(/bin/mkdir -p docs:*)",
+      "Bash(/bin/mkdir -p presentation-build:*)",
+      "Bash(mkdir -p docs:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(jq:*)",
+      "Write(docs/**)",
+      "Write(presentation-build/**)",
+      "Edit(docs/**)",
+      "Edit(presentation-build/**)"
+    ]
+  }
+}
